@@ -1,6 +1,10 @@
 # TTEA: A Self-Reinforcing Multi-Agent Approach for Large-Scale Complex Systems
 
-
+![Python 3.11+](https://img.shields.io/badge/python-3.11%2B-blue.svg)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-f37b21?style=flat&logo=huggingface&logoColor=white)
+![Paper](https://img.shields.io/badge/Paper-Pending-b31b1b.svg)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ## Abstract
 
