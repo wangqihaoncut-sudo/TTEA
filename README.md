@@ -231,4 +231,4 @@ If you find this repository useful, please cite the corresponding paper. The Bib
 
 ## License
 
-This project is released under the `MIT` license.
+This project is released under the [MIT License](LICENSE).
