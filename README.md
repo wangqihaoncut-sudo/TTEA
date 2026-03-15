@@ -242,11 +242,7 @@ Each run is saved under `runs/` and can include:
 - `training_history.jsonl`
 - `checkpoints.json`
 
-## Notes
 
-- The `coummunicaiton/` directory is preserved as an external reference, while the actual runtime communication mechanism has been integrated into the native TTEA stack in `src/ttea/core/communication.py`.
-- Web navigation experiments require benchmark environments and browser dependencies to be installed separately.
-- Dataset licenses and access conditions should follow the original benchmark providers.
 
 ## Citation
 
